@@ -1,0 +1,60 @@
+[
+    {
+        "scene_id": 1,
+        "summary": "The narrative begins with the death of the protagonist's grand-uncle, Professor George Gammell Angell, under mysterious circumstances.",
+        "characters": [
+            "George Gammell Angell",
+            "Protagonist"
+        ],
+        "location": "Providence, Rhode Island",
+        "events": [
+            "Death of George Gammell Angell",
+            "Mysterious circumstances surrounding the death"
+        ],
+        "transition_reason": "Introduction to the main plot and backstory.",
+        "original_text": "My knowledge of the thing began in the winter of 1926-27 with the death of my grand-uncle, George Gammell Angell, Professor Emeritus of Semitic languages in Brown University, Providence, Rhode Island. Professor Angell was widely known as an authority on ancient inscriptions, and had frequently been resorted to by the heads of prominent museums; so that his passing at the age of ninety-two may be recalled by many. Locally, interest was intensified by the obscurity of the cause of death."
+    },
+    {
+        "scene_id": 2,
+        "summary": "Details emerge about Professor Angell's death, suggesting a possible suspicious encounter leading to his fatal collapse.",
+        "characters": [
+            "George Gammell Angell",
+            "Nautical-looking negro"
+        ],
+        "location": "Williams Street, Providence",
+        "events": [
+            "Professor Angell collapses",
+            "Encounter with a mysterious figure"
+        ],
+        "transition_reason": "Shift from general background to specific incident leading to death.",
+        "original_text": "The professor had been stricken whilst returning from the Newport boat; falling suddenly, as witnesses said, after having been jostled by a nautical-looking negro who had come from one of the queer dark courts on the precipitous hillside which formed a short cut from the waterfront to the deceased's home in Williams Street."
+    },
+    {
+        "scene_id": 3,
+        "summary": "Medical professionals are baffled by the lack of clear cause for Professor Angell's death, leading to speculation about its nature.",
+        "characters": [
+            "Physicians"
+        ],
+        "location": "Providence hospital",
+        "events": [
+            "Medical examination",
+            "Debate among physicians"
+        ],
+        "transition_reason": "Introduction to the medical investigation following the incident.",
+        "original_text": "Physicians were unable to find any visible disorder, but concluded after perplexed debate that some obscure lesion of the heart, induced by the brisk ascent of so steep a hill by so elderly a man, was responsible for the end."
+    },
+    {
+        "scene_id": 4,
+        "summary": "The protagonist reflects on the past events and hints at having developed doubts about the naturalness of his grand-uncle's death.",
+        "characters": [
+            "Protagonist"
+        ],
+        "location": "Protagonist's residence",
+        "events": [
+            "Reflection by protagonist",
+            "Growing suspicion"
+        ],
+        "transition_reason": "Shift to protagonist's perspective and inner thoughts.",
+        "original_text": "At the time I saw no reason to dissent from this dictum, but latterly I am inclined to wonder--and more than wonder."
+    }
+]
